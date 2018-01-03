@@ -1,11 +1,11 @@
 {
   "name": "imagegal",
   "version": "1.0.0",
-  "description": "",
+  "description": "Image gallery version1",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start":"node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Kervens Jasmin",
   "license": "ISC",
